@@ -5613,6 +5613,20 @@ listSeparator
         public static XNamespace w16se = "http://schemas.microsoft.com/office/word/2015/wordml/symex";
     }
 
+    public static class W16
+    {
+        public static XNamespace w16 = "http://schemas.microsoft.com/office/word/2018/wordml";
+    }
+    public static class W16CEX
+    {
+        public static XNamespace w16cex = "http://schemas.microsoft.com/office/word/2018/wordml/cex";
+    }
+
+    public static class W16CID
+    {
+        public static XNamespace w16cid = "http://schemas.microsoft.com/office/word/2016/wordml/cid";
+    }
+
     public static class WE
     {
         public static readonly XNamespace we = "http://schemas.microsoft.com/office/webextensions/webextension/2010/11";
